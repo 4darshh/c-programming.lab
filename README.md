@@ -1,1 +1,1 @@
-# c-programming.lab
+DAY -01:- TOTAL ASSIGNMENT-5, DATE:- 12/08/2025  
